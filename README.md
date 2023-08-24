@@ -7,8 +7,8 @@
 - 📫 How to reach me : <br/>  Email : faizanfaruk8@gmail.com <br/>  Instagram : https://www.instagram.com/faizanbhagat_/ <br/> Linkedin : https://www.linkedin.com/in/m-faizan-faruk-bhagat-927155221  <br/> Twitter : https://mobile.twitter.com/faizanbhagat_    <br/> Leetcode : https://leetcode.com/faizanbhagat_/
 <br/>
 <h3>Quine widgets: </h3>
-[![faizanbhagat's GitHub | Stats](https://stats.quine.sh/faizanbhagat/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=faizanbhagat)
-<br />
-[![faizanbhagat's GitHub | Topics Over Time](https://stats.quine.sh/faizanbhagat/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=faizanbhagat)
-<br/>
-[![faizanbhagat's GitHub | Languages Over Time](https://stats.quine.sh/faizanbhagat/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=faizanbhagat)
+<img src='https://stats.quine.sh/faizanbhagat/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=faizanbhagat)' />
+<img src='https://stats.quine.sh/faizanbhagat/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=faizanbhagat)' />
+<img src='https://stats.quine.sh/faizanbhagat/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=faizanbhagat)' />
+<img src='https://stats.quine.sh/faizanbhagat/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=faizanbhagat)' />
+<img src='https://stats.quine.sh/faizanbhagat/web3?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=faizanbhagat)' />
